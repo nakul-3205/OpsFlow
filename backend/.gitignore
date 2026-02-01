@@ -205,3 +205,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
